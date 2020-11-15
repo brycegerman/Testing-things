@@ -1,0 +1,21 @@
+lastAccountName: Georgethesheep
+timestamps:
+  login: 1605471540472
+  lastteleport: 1605471419797
+  logout: 1605471551448
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 83.5
+  y: 67.0
+  z: 256.5
+  yaw: 0.0
+  pitch: 0.0
+money: '10.0'
+logoutlocation:
+  world: world
+  x: 81.17558628170386
+  y: 69.0
+  z: 252.7241680745089
+  yaw: 39.15003
+  pitch: 39.000008

@@ -1,0 +1,360 @@
+[14:49:51] [Server thread/INFO]: Starting minecraft server version 1.12.1
+[14:49:51] [Server thread/INFO]: Loading properties
+[14:49:51] [Server thread/INFO]: Default game type: SURVIVAL
+[14:49:51] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[14:49:52] [Server thread/INFO]: Debug logging is disabled
+[14:49:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:49:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:49:52] [Server thread/INFO]: Generating keypair
+[14:49:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:49:52] [Server thread/INFO]: Using default channel type
+[14:49:52] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:49:52] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[14:49:52] [Server thread/INFO]: [ASkyBlock] Loading ASkyBlock v3.0.9.4
+[14:49:52] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.1.0
+[14:49:52] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.18.1.0
+[14:49:52] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.1.0
+[14:49:52] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.1.0
+[14:49:52] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.1.0
+[14:49:52] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.18.1.0
+[14:49:52] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.18.1.0
+[14:49:52] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[14:49:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:49:52] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:49:52] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[14:49:52] [Server thread/INFO]: [ASkyBlock] Enabling ASkyBlock v3.0.9.4
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loading entity limits
+[14:49:53] [Server thread/INFO]: [ASkyBlock] HOPPER will be limited to 30
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loaded default island schematic.
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loaded default nether schematic.
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loading schematic The Original (island.schematic) for all players, order 1
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loading schematic NetherBlock Island (nether.schematic) for all players, order 0
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loading schematic Island Duo (double.schematic) for all players, order 2
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loading schematic Black Diamonds (harder.schematic) for all players, order 3
+[14:49:53] [Server thread/INFO]: [ASkyBlock] Loading offline messages...
+[14:49:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:49:53] [Server thread/INFO]: Preparing level "world"
+[14:49:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:49:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:49:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:53] [Server thread/INFO]: Structure Info Saving: true
+[14:49:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:49:53] [Server thread/INFO]: Random Lighting Updates: false
+[14:49:53] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:49:53] [Server thread/INFO]: View Distance: 10
+[14:49:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:49:53] [Server thread/INFO]: Mob Spawn Range: 4
+[14:49:53] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:49:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:49:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:53] [Server thread/INFO]: Structure Info Saving: true
+[14:49:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:49:53] [Server thread/INFO]: Random Lighting Updates: false
+[14:49:53] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:49:53] [Server thread/INFO]: View Distance: 10
+[14:49:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:49:53] [Server thread/INFO]: Mob Spawn Range: 4
+[14:49:53] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:49:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:49:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:53] [Server thread/INFO]: Structure Info Saving: true
+[14:49:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:49:53] [Server thread/INFO]: Random Lighting Updates: false
+[14:49:53] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:49:53] [Server thread/INFO]: View Distance: 10
+[14:49:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:49:53] [Server thread/INFO]: Mob Spawn Range: 4
+[14:49:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6729612508121964941)
+[14:49:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6729612508121964941)
+[14:49:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6729612508121964941)
+[14:49:55] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.1.0
+[14:49:55] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[14:49:55] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[14:49:55] [Server thread/INFO]: No kits found to migrate.
+[14:49:55] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[14:49:55] [Server thread/INFO]: [Essentials] Starting usermap repair
+[14:49:55] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[14:49:55] [Server thread/INFO]: Attempting to migrate ignore list to UUIDs
+[14:49:55] [Server thread/INFO]: Loaded 852 items from items.csv.
+[14:49:55] [Server thread/INFO]: Using locale en_US
+[14:49:55] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:49:55] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:49:55] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[14:49:55] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:49:55] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.18.1.0
+[14:49:55] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[14:49:55] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[14:49:55] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.1.0
+[14:49:55] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[14:49:55] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.1.0
+[14:49:55] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[14:49:55] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.1.0
+[14:49:55] [Server thread/ERROR]: No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[14:49:55] [Server thread/ERROR]: Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (The system cannot find the file specified)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_231]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_231]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[?:1.8.0_231]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP-2.18.1.0.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP-2.18.1.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP-2.18.1.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP-2.18.1.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP-2.18.1.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:166) [EssentialsXGeoIP-2.18.1.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) [EssentialsXGeoIP-2.18.1.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:33) [EssentialsXGeoIP-2.18.1.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:402) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:384) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:333) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.1.jar:git-Spigot-da42974-8f47214]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[14:49:55] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[14:49:55] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[14:49:55] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.18.1.0
+[14:49:55] [Server thread/INFO]: [EssentialsAntiBuild] Starting Metrics. Opt-out using the global bStats config.
+[14:49:55] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.18.1.0
+[14:49:55] [Server thread/WARN]: XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[14:49:55] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
+[14:49:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:49:55] [Server thread/INFO]: Done (2.229s)! For help, type "help" or "?"
+[14:49:55] [Server thread/INFO]: -------- World Settings For [ASkyBlock] --------
+[14:49:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:49:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:55] [Server thread/INFO]: Structure Info Saving: true
+[14:49:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:49:55] [Server thread/INFO]: Random Lighting Updates: false
+[14:49:55] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:49:55] [Server thread/INFO]: View Distance: 10
+[14:49:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:49:55] [Server thread/INFO]: Mob Spawn Range: 4
+[14:49:55] [Server thread/INFO]: Preparing start region for level 3 (Seed: -4402478626152300425)
+[14:49:55] [Server thread/INFO]: Creating ASkyBlock's Nether...
+[14:49:55] [Server thread/INFO]: -------- World Settings For [ASkyBlock_nether] --------
+[14:49:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:49:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:55] [Server thread/INFO]: Structure Info Saving: true
+[14:49:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:49:55] [Server thread/INFO]: Random Lighting Updates: false
+[14:49:55] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:49:55] [Server thread/INFO]: View Distance: 10
+[14:49:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:49:55] [Server thread/INFO]: Mob Spawn Range: 4
+[14:49:55] [Server thread/INFO]: Preparing start region for level 4 (Seed: 3920628403247388815)
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Silencing command feedback for Ops...
+[14:49:56] [Server thread/INFO]: Game rule sendCommandFeedback has been updated to false
+[14:49:56] [Server thread/INFO]: [ASkyBlock] If you do not want this, do /gamerule sendCommandFeedback true
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Checking for new updates...
+[14:49:56] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Loading island grid...
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Loading islands.yml
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Loading warps...
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Loading warp panel...
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Loading Top Ten
+[14:49:56] [Server thread/INFO]: [ASkyBlock] All files loaded. Ready to play...
+[14:49:56] [Server thread/INFO]: [ASkyBlock] Metrics loaded.
+[14:49:57] [Server thread/INFO]: [ASkyBlock] No update available.
+[14:49:57] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[14:53:05] [User Authenticator #1/INFO]: UUID of player Georgethesheep is 735b98b5-301b-43bc-95b4-8c6c774abb6e
+[14:53:05] [Server thread/INFO]: is leader = false
+[14:53:05] [Server thread/INFO]: Georgethesheep[/127.0.0.1:64994] logged in with entity id 17 at ([world]82.5, 65.0, 244.5)
+[14:53:05] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[14:53:05] [Craft Scheduler Thread - 10/WARN]: Unable to fetch GeoIP data for Georgethesheep. Please ensure that your license key and configuration are correct.
+[14:53:05] [Server thread/WARN]: File motd.txt does not exist. Creating one for you.
+[14:53:05] [pool-5-thread-1/INFO]: Creating empty config: C:\Users\r2bry\OneDrive\Desktop\SkyBlock\plugins\Essentials\userdata\735b98b5-301b-43bc-95b4-8c6c774abb6e.yml
+[14:53:05] [Server thread/INFO]: Georgethesheep has made the advancement [Getting an Upgrade]
+[14:53:14] [Server thread/INFO]: Georgethesheep issued server command: /is
+[14:53:40] [Server thread/INFO]: Title command successfully executed
+[14:53:40] [Server thread/INFO]: [ASkyBlock] FYI:Georgethesheep had $0 when they typed /island and it was set to 10.0
+[14:53:40] [Server thread/INFO]: Title command successfully executed
+[14:53:40] [Server thread/INFO]: Title command successfully executed
+[14:53:55] [Server thread/INFO]: Georgethesheep issued server command: /timesetday
+[14:54:01] [Server thread/INFO]: Georgethesheep issued server command: /time set day
+[14:54:01] [Server thread/INFO]: §cGeorgethesheep §4was denied access to command.
+[14:54:10] [Server thread/INFO]: Opped Georgethesheep
+[14:54:16] [Server thread/INFO]: Georgethesheep issued server command: /time set day
+[14:54:20] [Server thread/INFO]: Georgethesheep issued server command: /toggledownfall
+[14:54:20] [Server thread/INFO]: [Georgethesheep: Toggled downfall]
+[14:54:43] [Server thread/INFO]: Georgethesheep issued server command: /home
+[14:54:43] [Server thread/INFO]: Title command successfully executed
+[14:54:56] [Server thread/INFO]: Georgethesheep issued server command: /border
+[14:54:59] [Server thread/INFO]: Georgethesheep issued server command: /help
+[14:55:07] [Server thread/INFO]: Georgethesheep issued server command: /help 2
+[14:55:35] [Server thread/INFO]: Georgethesheep issued server command: /worldborder
+[14:56:41] [Server thread/INFO]: Georgethesheep issued server command: /home
+[14:57:03] [Server thread/INFO]: Georgethesheep issued server command: /worldborder center 81 249
+[14:57:03] [Server thread/INFO]: [Georgethesheep: Set world border center to 81.5, 249.5]
+[14:57:14] [Server thread/INFO]: Georgethesheep issued server command: /worldborder set 20
+[14:57:15] [Server thread/INFO]: [Georgethesheep: Set world border to 20.0 blocks wide (from 60000000.0 blocks)]
+[14:57:24] [Server thread/INFO]: Georgethesheep issued server command: /is
+[14:57:26] [Server thread/INFO]: Title command successfully executed
+[14:57:37] [Server thread/INFO]: Georgethesheep issued server command: /home
+[14:57:37] [Server thread/INFO]: Title command successfully executed
+[14:57:51] [Server thread/INFO]: Georgethesheep issued server command: /gamemode 1
+[15:00:59] [Server thread/INFO]: Georgethesheep issued server command: /is
+[15:01:04] [Server thread/INFO]: Georgethesheep issued server command: /team
+[15:01:06] [Server thread/INFO]: Georgethesheep issued server command: /help
+[15:01:24] [Server thread/INFO]: Georgethesheep issued server command: /help 2
+[15:01:34] [Server thread/INFO]: Georgethesheep issued server command: /help 3
+[15:01:40] [Server thread/INFO]: Georgethesheep issued server command: /help 4
+[15:01:42] [Server thread/INFO]: Georgethesheep issued server command: /help 5
+[15:01:45] [Server thread/INFO]: Georgethesheep issued server command: /help 6
+[15:01:48] [Server thread/INFO]: Georgethesheep issued server command: /help join
+[15:01:55] [Server thread/INFO]: Georgethesheep issued server command: /help team
+[15:01:58] [Server thread/INFO]: Georgethesheep issued server command: /help
+[15:02:07] [Server thread/INFO]: Georgethesheep issued server command: /help ASkyBlock
+[15:02:18] [Server thread/INFO]: Georgethesheep issued server command: /island
+[15:03:34] [Server thread/INFO]: Georgethesheep issued server command: /time set day
+[15:05:19] [Server thread/INFO]: Georgethesheep issued server command: /warps
+[15:05:21] [Server thread/INFO]: Georgethesheep issued server command: /warp
+[15:06:39] [Server thread/INFO]: Georgethesheep issued server command: /warps
+[15:07:33] [Server thread/INFO]: Georgethesheep issued server command: /is go
+[15:07:33] [Server thread/INFO]: Title command successfully executed
+[15:07:37] [Server thread/INFO]: Georgethesheep issued server command: /time set day
+[15:07:53] [Server thread/INFO]: Georgethesheep issued server command: /spawn
+[15:07:53] [Server thread/INFO]: Title command successfully executed
+[15:13:48] [Server thread/INFO]: Georgethesheep issued server command: /doDaylightCycle false
+[15:14:01] [Server thread/INFO]: Georgethesheep issued server command: /time set day
+[15:14:08] [Server thread/INFO]: Georgethesheep issued server command: /gamerule doDaylightCycle false
+[15:14:08] [Server thread/INFO]: [Georgethesheep: Game rule doDaylightCycle has been updated to false]
+[15:14:16] [Server thread/INFO]: Georgethesheep issued server command: /time set noon
+[15:14:18] [Server thread/INFO]: Georgethesheep issued server command: /is
+[15:14:20] [Server thread/INFO]: Title command successfully executed
+[15:14:30] [Server thread/INFO]: Georgethesheep issued server command: /toggledownfall
+[15:14:30] [Server thread/INFO]: [Georgethesheep: Toggled downfall]
+[15:14:51] [Server thread/INFO]: Georgethesheep issued server command: /spawn
+[15:14:51] [Server thread/INFO]: Title command successfully executed
+[15:14:54] [Server thread/INFO]: Georgethesheep issued server command: /is
+[15:15:00] [Server thread/INFO]: Georgethesheep issued server command: /is
+[15:15:02] [Server thread/INFO]: Title command successfully executed
+[15:15:06] [Server thread/INFO]: Georgethesheep issued server command: /is
+[15:15:39] [Server thread/INFO]: Georgethesheep issued server command: /purge
+[15:16:51] [Server thread/INFO]: Georgethesheep issued server command: /gamemode 0
+[15:16:59] [Server thread/INFO]: Georgethesheep issued server command: /spawn
+[15:16:59] [Server thread/INFO]: Title command successfully executed
+[15:17:04] [Server thread/INFO]: Georgethesheep lost connection: Disconnected
+[15:17:04] [Server thread/INFO]: Georgethesheep left the game
+[15:17:04] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[15:19:00] [User Authenticator #2/INFO]: UUID of player Georgethesheep is 735b98b5-301b-43bc-95b4-8c6c774abb6e
+[15:19:00] [Server thread/INFO]: is leader = false
+[15:19:00] [Server thread/INFO]: Georgethesheep[/127.0.0.1:65372] logged in with entity id 325 at ([world]83.5, 67.0, 256.5)
+[15:19:00] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[15:19:04] [Server thread/INFO]: Georgethesheep issued server command: /is
+[15:19:11] [Server thread/INFO]: Georgethesheep lost connection: Disconnected
+[15:19:11] [Server thread/INFO]: Georgethesheep left the game
+[15:19:11] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[15:19:40] [Server thread/INFO]: Stopping the server
+[15:19:40] [Server thread/INFO]: Stopping server
+[15:19:40] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.18.1.0
+[15:19:40] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.18.1.0
+[15:19:40] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.18.1.0
+[15:19:40] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.1.0
+[15:19:40] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.1.0
+[15:19:40] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.18.1.0
+[15:19:40] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.1.0
+[15:19:40] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[15:19:40] [Server thread/INFO]: [ASkyBlock] Disabling ASkyBlock v3.0.9.4
+[15:19:40] [Server thread/INFO]: [ASkyBlock] Saving offline messages...
+[15:19:40] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:19:40] [Server thread/INFO]: Saving players
+[15:19:40] [Server thread/INFO]: Saving worlds
+[15:19:40] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[15:19:40] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[15:19:40] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[15:19:40] [Server thread/INFO]: Saving chunks for level 'ASkyBlock'/overworld
+[15:19:40] [Server thread/INFO]: Saving chunks for level 'ASkyBlock_nether'/the_nether
